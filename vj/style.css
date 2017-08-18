@@ -1,0 +1,120 @@
+body{
+	margin:0px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+	padding:0;
+	margin:0;
+}
+
+.vj-home{
+	background-image: url(vj_home.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+.vj-home .vj-home-text{
+	color: #fff;
+	display: table-cell;
+    vertical-align: bottom;
+    text-align: center;
+    padding:15px;
+}
+.vj-home .vj-home-text h1{
+	font-size: 35px;
+}
+.vj-home .vj-home-text h3{
+	font-weight: 400;
+}
+
+.vj-wedding{
+	background-image: url(wedding_photography.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+
+section h2{
+	font-size: 28px;
+}
+.vj-wedding .section-text, .vj-festival .section-text, .vj-children .section-text, .vj-portrait .section-text{
+	color: #fff;
+	display: table-cell;
+    vertical-align: bottom;
+    text-align: center;
+    padding:15px;
+}
+
+.vj-festival{
+	background-image: url(festival_photography.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+
+.vj-children{
+	background-image: url(candid_photography.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+
+.vj-portrait{
+	background-image: url(portrait_photography.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+
+.vj-contact{
+	background-image: url(nature_photography.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+}
+.vj-contact .section-text{
+	color:#fff;
+	display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding:15px;
+}
+.vj-contact .section-text h3{
+	padding: 5px;
+	text-decoration: underline;
+}
+.vj-contact .section-text a{
+	color:#fff;
+	text-decoration: none;
+}
