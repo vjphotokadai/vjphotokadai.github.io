@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6, p{
     text-align: center;
 }
 .vj-main-box{
-	padding: 10px;
+	padding: 10px 0;
 	position: fixed;
     bottom: 0;
     width: 100%;
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6, p{
     padding: 10px 20px;
 }
 .vj-main-box .vj-main-title h1{
-	font-size: 34px;
+	font-size: 32px;
 }
 .vj-main-box .vj-main-title .vj-social-links a{
 	padding:8px;
